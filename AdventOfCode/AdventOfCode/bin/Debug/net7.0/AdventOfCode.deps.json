@@ -10,7 +10,9 @@
         "dependencies": {
           "Day1": "1.0.0",
           "Day2": "1.0.0",
-          "Day3": "1.0.0"
+          "Day3": "1.0.0",
+          "Day4": "1.0.0",
+          "Day5": "1.0.0"
         },
         "runtime": {
           "AdventOfCode.dll": {}
@@ -29,6 +31,16 @@
       "Day3/1.0.0": {
         "runtime": {
           "Day3.dll": {}
+        }
+      },
+      "Day4/1.0.0": {
+        "runtime": {
+          "Day4.dll": {}
+        }
+      },
+      "Day5/1.0.0": {
+        "runtime": {
+          "Day5.dll": {}
         }
       }
     }
@@ -50,6 +62,16 @@
       "sha512": ""
     },
     "Day3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day5/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,3 +10,15 @@ D:\GeniRepos\AdventOfCode\Day2\obj\Debug\net7.0\Day2.dll
 D:\GeniRepos\AdventOfCode\Day2\obj\Debug\net7.0\refint\Day2.dll
 D:\GeniRepos\AdventOfCode\Day2\obj\Debug\net7.0\Day2.pdb
 D:\GeniRepos\AdventOfCode\Day2\obj\Debug\net7.0\ref\Day2.dll
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\bin\Debug\net7.0\Day2.deps.json
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\bin\Debug\net7.0\Day2.dll
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\bin\Debug\net7.0\Day2.pdb
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.csproj.AssemblyReference.cache
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.AssemblyInfoInputs.cache
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.AssemblyInfo.cs
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.csproj.CoreCompileInputs.cache
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.dll
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\refint\Day2.dll
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\Day2.pdb
+C:\Users\Ambrož\Documents\AdventOfCode2022\AdventOfCode2022\AdventOfCode\Day2\obj\Debug\net7.0\ref\Day2.dll
